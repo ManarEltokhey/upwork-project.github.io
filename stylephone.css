@@ -1,0 +1,21 @@
+#hearer-div{
+    display: none;
+}
+#trusted-img{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.margin-button{
+    margin-bottom: 4px;
+    }
+.reverse{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+       
+    }
+#backgroung-img{
+    display: flex;
+    flex-direction: column;
+}    

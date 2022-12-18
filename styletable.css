@@ -1,0 +1,12 @@
+#hearer-div{
+    display: none;
+}
+.margin-button{
+margin-bottom: 4px;
+}
+.reverse{
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+   
+}
